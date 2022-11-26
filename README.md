@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabh18maske
 - 👀 I’m interested in full stack
-- 🌱 I’m currently learning fast cod
+- 🌱 I’m currently learning fast code
 - 💞️ I’m looking to collaborate on tech
 - 📫 How to reach me via mail
 
